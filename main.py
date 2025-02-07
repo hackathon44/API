@@ -9,6 +9,7 @@ app = FastAPI(title="Age Lookup API",
 PEOPLE_DATA = {
     "john": {"name": "John Smith", "age": 28},
     "emma": {"name": "Emma Watson", "age": 32},
+    "love": {"name": "EKLAVYA SINGH", "age": 20},
     "michael": {"name": "Michael Brown", "age": 45},
     "sarah": {"name": "Sarah Johnson", "age": 29},
     "david": {"name": "David Wilson", "age": 35}
